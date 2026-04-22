@@ -4,12 +4,6 @@
 
 using namespace std;
 
-/**
- * Estudante: João Armando Mussepe
- * Universidade Licungo - Licenciatura em Informática
- * Pergunta 4: Fatura de 5 itens com desconto de 10% acima de 1000 MT.
- */
-
 int main() {
     const int NUM_ITENS = 5;
     string nome_item[NUM_ITENS];

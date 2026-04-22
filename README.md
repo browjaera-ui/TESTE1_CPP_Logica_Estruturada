@@ -1,6 +1,6 @@
 # Resolução do Teste I - Laboratório II (C++)
 
-Este repositório contém a resolução do Teste I da cadeira de Laboratório II (C++), realizado por **João Armando Mussepe**, estudante do 2º ano da Licenciatura em Informática na **Universidade Licungo**.
+Este repositório contém a resolução do Teste I da cadeira de Laboratório II (C++).
 
 ## Descrição dos Exercícios
 
@@ -19,8 +19,3 @@ Para compilar qualquer um dos ficheiros, utilize o compilador `g++`:
 g++ perguntaX.cpp -o perguntaX
 ./perguntaX
 ```
-
----
-**Estudante:** João Armando Mussepe
-**Instituição:** Universidade Licungo
-**Data:** 22/04/2026

@@ -3,12 +3,6 @@
 
 using namespace std;
 
-/**
- * Estudante: João Armando Mussepe
- * Universidade Licungo - Licenciatura em Informática
- * Pergunta 2: Sistema de loja com vetores paralelos (Código e Stock).
- */
-
 int main() {
     const int TOTAL_PRODUTOS = 10;
     int codigos[TOTAL_PRODUTOS];

@@ -5,12 +5,6 @@
 
 using namespace std;
 
-/**
- * Estudante: João Armando Mussepe
- * Universidade Licungo - Licenciatura em Informática
- * Pergunta 3: Gestao de notas e percentagem de aprovacao.
- */
-
 int main() {
     const int NUM_ALUNOS = 15;
     string nomes[NUM_ALUNOS];
@@ -20,7 +14,7 @@ int main() {
     cout << "--- Registro de Notas (15 Alunos) ---" << endl;
     for (int i = 0; i < NUM_ALUNOS; i++) {
         cout << "Nome do aluno " << i + 1 << ": ";
-        cin.ignore(); // Limpa o buffer
+        cin.ignore();
         getline(cin, nomes[i]);
         cout << "Media final de " << nomes[i] << ": ";
         cin >> medias[i];

@@ -5,12 +5,6 @@
 
 using namespace std;
 
-/**
- * Estudante: João Armando Mussepe
- * Universidade Licungo - Licenciatura em Informática
- * Pergunta 6: Pesquisa de preco de 20 produtos.
- */
-
 int main() {
     const int TOTAL_PRODUTOS = 20;
     string nomes[TOTAL_PRODUTOS];
